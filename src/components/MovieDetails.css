@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(66, 36, 93);
+    border: 1px solid black;
+}
+.headTitle{
+    text-align: center;
+    border-bottom: 1px solid black;
+    
+
+}
+.description{
+    font-size: 20px;
+    color: rgb(240, 231, 231);
+}
+.rating{
+    color: goldenrod;
+    font-size: 20px;
+}
+.btnBack{
+  display: block;
+  margin: 20px auto;
+  padding: 10px 25px;
+  background-color: #6b7280;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s; 
+}
